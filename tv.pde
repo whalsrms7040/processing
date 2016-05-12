@@ -1,0 +1,17 @@
+size(200, 200);
+strokeWeight(2); 
+stroke(255,255,255);
+fill(0);
+rect(50, 50, 100, 100);
+strokeWeight(2); 
+strokeCap(SQUARE);
+line(70, 10, 100, 50);
+strokeWeight(2); 
+strokeCap(SQUARE);
+line(100, 50, 130, 0);
+strokeWeight(1); 
+stroke(255,255,255);
+fill(0);
+rect(70, 70, 60, 30);
+ellipse(100, 130, 5, 5);
+ellipse(110, 130, 5, 5);
